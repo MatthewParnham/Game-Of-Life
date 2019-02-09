@@ -2,7 +2,7 @@
 GAME OF LIFE
 Section: 02
 
-This program will perform Game of Life with three different game modes: Classic, Donut, and Mirror. It can take in a file with set grid and cells, or create a grid and cell template by the user.
+Implementation of Game of Life with three different game modes: Classic, Donut, and Mirror. It can take in a file with set grid and cells, or create a grid and cell template by the user.
 
 
 Tristan Chilvers
